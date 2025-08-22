@@ -79,7 +79,7 @@ const passosParaMordor = 5;
 do {
     console.log(`Dando passo ${passos}`)
     passos++
-} while(passos < 5) {
+} while(passos < passosParaMordor) {
     console.log('Chegamos em Mordor!')
 }
 
